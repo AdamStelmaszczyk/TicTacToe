@@ -16,7 +16,7 @@ import java.util.List;
  */
 public class MonteCarloTreeSearch extends AI {
 
-    private final static int PLAY_OUTS = 100;
+    private final static int PLAY_OUTS = 200;
     private static int boardsCalculated;
 
     private final static double POINTS_FOR_WIN = 1;
